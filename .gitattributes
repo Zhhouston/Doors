@@ -1,0 +1,1 @@
+*.fbx,*.7z,*.zip,*.rar filter=lfs diff=lfs merge=lfs -text
